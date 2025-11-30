@@ -1,0 +1,7 @@
+{
+  "name": "Oracle",
+  "description": "A professional AI tutor for rural communities supporting Hausa, Igbo, Yoruba, Nigerian Pidgin, and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
